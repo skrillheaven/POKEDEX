@@ -9,7 +9,7 @@ function consulta_pokemon() {
             //en caso de error arojara una imagen y se activa el motodo botones
             if (res.status != "200") {
                 console.log(res);
-                PokeImg("/img/enojado.png");
+                PokeImg("https://github.com/skrillheaven/Skrillheaven-POKEDEX.github.io/blob/82cd3d0dbc46d68df99c02a915cad0818253585f/img/enojado.png");
                 botones("false");
 
             } else {
