@@ -17,5 +17,5 @@ Practica pokedex para LaunchX Elaborado por Alberto Cruz
 <p>Ingresamos un dato erroneo</p>
 <img src="https://github.com/skrillheaven/POKEDEX/blob/fffbff9ba999843261a38c8082937afa8bd0b355/capturas/error1.jpg">
 <p>Resultado de ingresar datos erroneos</p>
-<img src"https://github.com/skrillheaven/POKEDEX/blob/fffbff9ba999843261a38c8082937afa8bd0b355/capturas/error2.jpg">
+<img src="https://github.com/skrillheaven/POKEDEX/blob/fffbff9ba999843261a38c8082937afa8bd0b355/capturas/error2.jpg">
 
