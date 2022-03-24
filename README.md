@@ -6,4 +6,7 @@ Practica pokedex para LaunchX Elaborado por Alberto Cruz
 <p>En las siguientes capturas podemos ver el funcionamiento de este pokedex</p><br>
 <p>Iniciando la busqueda</p>
 <img src="https://github.com/skrillheaven/POKEDEX/blob/816bd25d114c94941ba50981c6287b8330db4e22/capturas/busqueda.jpg">
+<p>Encontrando el pokemon y mostrando los datos de este</p>
+<img src="https://github.com/skrillheaven/POKEDEX/blob/8fe591bd7f6fda7cb0ff9cd492bc83e500cbab44/capturas/estadisticas.jpg">
+          
 
